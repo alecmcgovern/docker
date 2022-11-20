@@ -1,3 +1,8 @@
 
 # Frontend
 frontend/node_modules
+frontend/build
+
+
+# Backend
+backend/node_modules
