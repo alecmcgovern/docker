@@ -5,6 +5,12 @@ A simple repository demonstrating how Docker can be used to build and run a simp
 - `backend/` consists of an express server
 - `frontend/` is a react application, made with `create-react-app`
 
+## Quick Start
+```
+docker-compose build
+docker-compose up
+```
+
 ## Backend
 To run in a docker container:
 ```
